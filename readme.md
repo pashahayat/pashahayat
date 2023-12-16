@@ -1,4 +1,4 @@
-Hi 👋, I'm Metro
+Hi 👋, I'm Pasha
 snake
 Confusion is part of Programming
 🔭 I’m currently working on TypeScript, JavaScript, C#, Html, Css3 and Lua
