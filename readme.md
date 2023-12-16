@@ -1,5 +1,5 @@
 Hi 👋, I'm Pasha
-snake
+SIGMA
 Confusion is part of Programming
 🔭 I’m currently working on TypeScript, JavaScript, C#, Html, Css3 and Lua
 
@@ -7,4 +7,6 @@ Confusion is part of Programming
 
 💬 Ask me about TypeScript, JavaScript, C#, Html, Css3 and Lua
 
-🏠 You can easily contact me on Discord m6tro.
+🏠 You can easily contact me on Discord pasha.500
+
+🤣 Masora #1 Inshallah wieder bald jungs 
